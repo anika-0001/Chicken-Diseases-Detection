@@ -1,1 +1,1 @@
-# Chicken-Diseases-Detection
+Chicken-Diseases-Detection
